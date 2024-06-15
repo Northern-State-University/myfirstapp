@@ -4,6 +4,8 @@
 
 We'll be building an app for Andriod and iOS in a cross-platform language called Flutter. This app will auto generate names and we will save them, store and display them. We will learn about layout, about the Flutter events bus and UI styling.
 
+If you haven't already, check this code out onto your machine, then:
+
 Please navigate to: https://codelabs.developers.google.com/codelabs/flutter-codelab-first#2 for instuctions and then to https://dartpad.dev/
 to begin building. 
 
